@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SR Technologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>GRIET - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1>SR Technologies DevOps & Cloud Learning Platform</h1> 
-			<h4>Contact: +91-9108458890 Email: info@srtech.com</h4> 
+			<h1>GRIET DevOps & Cloud Learning Platform</h1> 
+			<h4>Contact: +91-9108458890 Email: info@greit.com</h4> 
 		</header>
 
 		<div id="tabs">
